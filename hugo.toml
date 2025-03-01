@@ -1,4 +1,3 @@
 baseURL = 'https://tree-sheep.com'
 languageCode = 'en-us'
 title = 'Hugo'
-theme = not-much
