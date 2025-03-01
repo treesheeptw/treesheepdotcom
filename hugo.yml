@@ -15,7 +15,7 @@ menu:
       name: posts
       title: Posts
       url: /posts
-    - identifier: github
+    - identifier: github↗
       name: github
       title: GitHub
       url: https://github.com/treesheeptw
