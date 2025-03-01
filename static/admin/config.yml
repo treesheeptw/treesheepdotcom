@@ -3,6 +3,7 @@ backend:
   repo: treesheeptw/treesheepdotcom
   branch: main
   base_url: https://tree-sheep.com
+  auth_endpoint: /api/auth
 media_folder: static/img
 public_folder: /img
 collections:
