@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: treesheeptw/treesheepdotcom
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
+  site_domain: https://tree-sheep.com
   base_url: https://tree-sheep.com
-  auth_endpoint: /api/auth
 media_folder: static/img
 public_folder: /img
 collections:
