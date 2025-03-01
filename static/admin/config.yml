@@ -2,7 +2,6 @@ backend:
   name: github
   repo: treesheeptw/treesheepdotcom
   branch: main
-  site_domain: https://tree-sheep.com
   base_url: https://tree-sheep.com
 media_folder: static/img
 public_folder: /img
