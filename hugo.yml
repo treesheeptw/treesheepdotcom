@@ -15,10 +15,14 @@ menu:
       name: posts
       title: Posts
       url: /posts
-    - identifier: github↗
+    - identifier: github
       name: github
       title: GitHub
-      url: https://github.com/treesheeptw
+      url: https://github.com/treesheeptw/treesheepdotcom
+    - identifier: mastodon
+      name: mastodon
+      title: Mastodon
+      url: https://wxw.moe/@treesheep
 params:
   theme: auto
   palette: catpuccin
