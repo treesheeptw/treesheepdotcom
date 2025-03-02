@@ -24,3 +24,4 @@ params:
   palette: catpuccin
 copyright: © 2025 Chiachun Lin. All rights reserved.
 math: true
+showThemeNotice: false
