@@ -19,3 +19,8 @@ menu:
       name: github
       title: GitHub
       url: https://github.com/treesheeptw
+params:
+  theme: auto
+  palette: catpuccin
+copyright: © 2025 Chiachun Lin. All rights reserved.
+math: true
