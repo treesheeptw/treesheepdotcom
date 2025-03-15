@@ -23,6 +23,10 @@ menu:
       name: mastodon
       title: Mastodon
       url: https://wxw.moe/@treesheep
+    - identifier: ai
+      name: ai
+      title: AI
+      url: https://ai.tree-sheep.com
 params:
   theme: auto
   palette: catpuccin
