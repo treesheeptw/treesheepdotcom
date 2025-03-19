@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>樹羊</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 樹羊</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© 2025 Chiachun Lin. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 16:37:36 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>title</title>
+      <link>http://localhost:1313/f1/title/</link>
+      <pubDate>Wed, 19 Mar 2025 16:37:36 +0000</pubDate>
+      <guid>http://localhost:1313/f1/title/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>date test</title>
+      <link>http://localhost:1313/f1/date-test/</link>
+      <pubDate>Tue, 18 Mar 2025 16:46:00 +0000</pubDate>
+      <guid>http://localhost:1313/f1/date-test/</guid>
+      <description>&lt;p&gt;body&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why the switch?</title>
+      <link>http://localhost:1313/f1/%E6%A8%99%E9%A1%8C%E7%A4%BA%E7%AF%84/</link>
+      <pubDate>Sun, 02 Mar 2025 13:47:01 +0000</pubDate>
+      <guid>http://localhost:1313/f1/%E6%A8%99%E9%A1%8C%E7%A4%BA%E7%AF%84/</guid>
+      <description>&lt;h1 id=&#34;what-happened&#34;&gt;What Happened?&lt;/h1&gt;&#xA;&lt;p&gt;If this isn&amp;rsquo;t your first time on my website, you might notice that not only is the domain different, there is also a drastic change of style. That is because I have switched over from Wordpress.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why?&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;tl;dr I am too lazy to migrate the old one.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Assuming you know a slight bit about website building (if you don&amp;rsquo;t, don&amp;rsquo;t mind the rest because it will only get more and more technical as we discuss), you must know Wordpress. It&amp;rsquo;s the most widely used website CMS (content management system) around the world. In fact, more than half of the websites in the world are built using Wordpress. The no-code, user-friendly interface and logic makes it easy for beginners. That&amp;rsquo;s why most of my previous websites are Wordpress-based, including my original blog.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why the switch?</title>
+      <link>http://localhost:1313/posts/why-the-switch/</link>
+      <pubDate>Sun, 02 Mar 2025 13:47:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-the-switch/</guid>
+      <description>&lt;h1 id=&#34;what-happened&#34;&gt;What Happened?&lt;/h1&gt;&#xA;&lt;p&gt;If this isn&amp;rsquo;t your first time on my website, you might notice that not only is the domain different, there is also a drastic change of style. That is because I have switched over from Wordpress.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why?&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;tl;dr I am too lazy to migrate the old one.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Assuming you know a slight bit about website building (if you don&amp;rsquo;t, don&amp;rsquo;t mind the rest because it will only get more and more technical as we discuss), you must know Wordpress. It&amp;rsquo;s the most widely used website CMS (content management system) around the world. In fact, more than half of the websites in the world are built using Wordpress. The no-code, user-friendly interface and logic makes it easy for beginners. That&amp;rsquo;s why most of my previous websites are Wordpress-based, including my original blog.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marking the initial post</title>
+      <link>http://localhost:1313/posts/marking-the-initial-post/</link>
+      <pubDate>Sun, 02 Mar 2025 04:34:25 +0000</pubDate>
+      <guid>http://localhost:1313/posts/marking-the-initial-post/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>init</title>
+      <link>http://localhost:1313/blog/init/</link>
+      <pubDate>Sat, 01 Mar 2025 14:52:37 +0000</pubDate>
+      <guid>http://localhost:1313/blog/init/</guid>
+      <description>&lt;p&gt;body&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

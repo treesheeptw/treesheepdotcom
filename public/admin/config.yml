@@ -1,0 +1,33 @@
+backend:
+  name: github
+  repo: treesheeptw/treesheepdotcom
+  branch: main
+  base_url: https://tree-sheep.com
+  auth_endpoint: /api/auth
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    folder: 'content/posts'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'f1'
+    label: 'F1'
+    folder: 'content/f1'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
