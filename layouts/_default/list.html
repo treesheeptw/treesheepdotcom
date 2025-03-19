@@ -5,7 +5,10 @@
       {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
     </div>
     {{ .Content }}
-    {{ $paginator := .Paginate union (where .Data.Pages "Type" "posts") (where .Data.Pages "Type" "f1") }}
+    
+    {{ $pages := union (where .Data.Pages "Type" "f1") (where .Data.Pages "Type" "posts") }}
+    {{ $paginator := .Paginate $pages }}
+    
     {{ range $paginator.Pages }}
     <div class="row mb-3">
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
@@ -15,6 +18,7 @@
       <!-- {{ .Summary }} -->
     </div>
     {{ end }}
+    
     {{ $paginator := .Paginator }}
     {{ if gt $paginator.TotalPages 1 }}
     <nav aria-label="breadcrumb">
