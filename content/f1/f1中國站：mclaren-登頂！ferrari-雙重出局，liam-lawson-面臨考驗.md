@@ -9,7 +9,7 @@ McLaren 車隊在本週日的2025年中國大獎賽上表現出色，Oscar Piast
 
 # 排位賽與起步：Piastri 掌控優勢，Verstappen 小有失誤
 
-Oscar Piastri 在週六的排位賽中就展現出了強大的競爭力，以領先的姿態奪得杆位，為比賽奠定了良好的基礎。Lando Norris 也緊隨其後，從第二位起跑。Max Verstappen 表現穩定，但起步略有失誤，從第三位滑落至第六位，需要努力追趕。 
+Oscar Piastri 在週六的排位賽中就展現出了強大的競爭力，以領先的姿態奪得杆位，為比賽奠定了良好的基礎。Lando Norris 也緊隨其後，從第二位起跑。Max Verstappen 表現穩定，但起步略有失誤，從第四位滑落至第六位，需要努力追趕。 
 
 # 正賽：McLaren 的穩定發揮與 Ferrari 的意外災難
 
@@ -62,44 +62,44 @@ Christian Horner 表示，雖然 Lawson 面臨著一些壓力，但 Red Bull 會
 
 # 車手積分更新
 
-| 名次 | 車手 | 積分 |
-|---|---|---|
-| 1 | NOR | 44 |
-| 2 | VER | 36 |
-| 3 | RUS | 35 |
-| 4 | PIA | 34 |
-| 5 | ANT | 22 |
-| 6 | ALB | 16 |
-| 7 | OCO | 10 |
-| 8 | STR | 10 |
-| 9 | HAM | 9 |
-| 10 | LEC | 8 |
-| 11 | HUL | 6 |
-| 12 | BEA | 4 |
-| 13 | TSU | 3 |
-| 14 | SAI | 1 |
-| 15 | HAD |  |
-| 16 | GAS |  |
-| 17 | LAW |  |
-| 18 | DOO |  |
-| 19 | BOR |  |
-| 20 | ALO |  |
-
+| 名次  | 車手  | 積分  |
+| --- | --- | --- |
+| 1   | NOR | 44  |
+| 2   | VER | 36  |
+| 3   | RUS | 35  |
+| 4   | PIA | 34  |
+| 5   | ANT | 22  |
+| 6   | ALB | 16  |
+| 7   | OCO | 10  |
+| 8   | STR | 10  |
+| 9   | HAM | 9   |
+| 10  | LEC | 8   |
+| 11  | HUL | 6   |
+| 12  | BEA | 4   |
+| 13  | TSU | 3   |
+| 14  | SAI | 1   |
+| 15  | HAD |     |
+| 16  | GAS |     |
+| 17  | LAW |     |
+| 18  | DOO |     |
+| 19  | BOR |     |
+| 20  | ALO |     |
 
 # 車隊積分更新
 
-| 名次 | 車隊 | 積分 |
-|---|---|---|
-| 1 | McLaren | 78 |
-| 2 | Mercedes | 57 |
-| 3 | Red Bull | 36 |
-| 4 | Williams | 17 |
-| 5 | Ferrari | 17 |
-| 6 | Haas | 14 |
-| 7 | Aston Martin | 10 |
-| 8 | Kick Sauber | 6 |
-| 9 | Racing Bulls | 3 |
-| 10 | Alpine | 0 |
+| 名次  | 車隊           | 積分  |
+| --- | ------------ | --- |
+| 1   | McLaren      | 78  |
+| 2   | Mercedes     | 57  |
+| 3   | Red Bull     | 36  |
+| 4   | Williams     | 17  |
+| 5   | Ferrari      | 17  |
+| 6   | Haas         | 14  |
+| 7   | Aston Martin | 10  |
+| 8   | Kick Sauber  | 6   |
+| 9   | Racing Bulls | 3   |
+| 10  | Alpine       | 0   |
 
 # 結語
+
 F1 車隊與車手們將於下週前往日本的鈴鹿賽道，進行2025年日本大獎賽。McLaren 能否繼續保持優勢？Ferrari 又會如何調整策略？ Lawson 能否改善表現？讓我們拭目以待！
