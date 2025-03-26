@@ -31,6 +31,10 @@ menu:
       name: ai
       title: AI
       url: https://ai.tree-sheep.com
+    - identifier: memo
+      name: memo
+      title: Memo
+      url: https://memo.tree-sheep.com
 params:
   theme: auto
   palette: catpuccin
