@@ -43,6 +43,10 @@ menu:
       name: cms
       title: CMS
       url: https://tree-sheep.com/admin
+    - identifier: stickers
+      name: stickers
+      title: Stickers
+      url: https://stickers.tree-sheep.com
 params:
   theme: auto
   palette: catpuccin
