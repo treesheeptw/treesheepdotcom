@@ -47,6 +47,10 @@ menu:
       name: stickers
       title: Stickers
       url: https://stickers.tree-sheep.com
+    - identifier: sharing
+      name: sharing
+      title: Sharing
+      url: https://share.tree-sheep.com
 params:
   theme: auto
   palette: catpuccin
