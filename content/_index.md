@@ -2,8 +2,10 @@
 lead: "aka. treesheep"
 ---
 
-# projects
+  
 
+# projects
+---
 ## ai
 Self-hosted [open-webui](https://github.com/open-webui/open-webui) instance with custom fine-tuned models running locally.
 
@@ -19,8 +21,10 @@ Self-hosted [sharry](https://github.com/eikek/sharry) instance for file sharing 
 ## stickers
 Self hosted fork of [zagh's](https://git.waka.moe/zagh/web-line) LINE stickers database.
 
-# useless websites
+  
 
+# useless websites
+---
 ## Hoshimachi Suisei simp
 A website praising how cute Sui-chan is and counting down her birthday.
 [suisei.tree-sheep.com](https://suisei.tree-sheep.com).
