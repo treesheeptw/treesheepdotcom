@@ -2,7 +2,8 @@
 lead: "aka. treesheep"
 ---
 
-  
+&NewLine;
+&NewLine;
 
 # projects
 ---
@@ -21,7 +22,8 @@ Self-hosted [sharry](https://github.com/eikek/sharry) instance for file sharing 
 ## stickers
 Self hosted fork of [zagh's](https://git.waka.moe/zagh/web-line) LINE stickers database.
 
-  
+&NewLine;
+&NewLine;
 
 # useless websites
 ---
@@ -37,6 +39,9 @@ A fake promotional website to send to friends when they do something dumb.
 A fake AI compliment generator that loops a loading bar indefinitely.
 Made as an April fool's joke.
 [compliment.tree-sheep.com](https://compliment.tree-sheep.com)
+
+&NewLine;
+&NewLine;
 
 and many more coming soon...
 
