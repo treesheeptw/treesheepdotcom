@@ -2,8 +2,6 @@
 lead: "aka. treesheep"
 ---
 
-<br/><br/>
-
 ---
 ## projects
 ---
@@ -22,25 +20,21 @@ Self-hosted [sharry](https://github.com/eikek/sharry) instance for file sharing 
 ### stickers
 Self hosted fork of [zagh's](https://git.waka.moe/zagh/web-line) LINE stickers database.
 
-<br/><br/>
-
 ---
 ## useless websites
 ---
 ### Hoshimachi Suisei simp
-A website praising how cute Sui-chan is and counting down her birthday.<br/>
-[suisei.tree-sheep.com](https://suisei.tree-sheep.com).
+A website praising how cute Sui-chan is and counting down her birthday.\
+[suisei.tree-sheep.com](https://suisei.tree-sheep.com).\
 
 ### free brain extensions
-A fake promotional website to send to friends when they do something dumb.<br/>
-[freebrain.download](https://freebrain.download).
+A fake promotional website to send to friends when they do something dumb.\
+[freebrain.download](https://freebrain.download).\
 
 ### random compliment
-A fake AI compliment generator that loops a loading bar indefinitely.<br/>
-Made as an April fool's joke.<br/>
-[compliment.tree-sheep.com](https://compliment.tree-sheep.com)
-
-<br/><br/>
+A fake AI compliment generator that loops a loading bar indefinitely.\
+Made as an April fool's joke.\
+[compliment.tree-sheep.com](https://compliment.tree-sheep.com)\
 
 and many more to come...
 
