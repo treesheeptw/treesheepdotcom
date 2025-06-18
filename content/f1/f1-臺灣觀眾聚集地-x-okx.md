@@ -22,7 +22,10 @@ F1 電影將在月底上映，這次，F1 臺灣觀眾聚集地與 OKX 合作，
 # 參加資格
 
 1. 使用[ 專用連結 ](https://s.tsheep.co/f1okx)註冊 OKX 帳號。
-2. 完成帳號驗證並[領取](https://okx.com/crypto-gifts/431N3BZQ?route_biz=gift&channelId=90864154)社群專屬的紅包（限量200包）。
+2. 完成帳號驗證並領取社群專屬的紅包（已截止）。
+
+   * 第二階段專屬紅包（[連結](https://okx.com/crypto-gifts/LBFBYOPU?route_biz=gift&channelId=90864154)），已經領過第一階段的也可以領！
+   * 第三階段專屬紅包（即將上線）。
 3. 使用紅包的錢進行任意交易。
 4. 到活動 [LINE 官方帳號](https://s.tsheep.co/f1okxline) 回報。
 5. 符合資格者可參加抽獎，本次抽出一輛「樂高76919 McLaren MCL60」，且前 110 名符合資格者可免費參加電影包場。
